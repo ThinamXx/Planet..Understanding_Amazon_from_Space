@@ -14,6 +14,9 @@
 # **SnapShot of the Satellite Images**
 ![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1595263053/3_zhq7qe.png)
 
-## **Dataset:**
+# F-score: 0.930683
+![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1595263066/4_i2uwtj.png)
+
+# **Dataset:**
 [Here](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data)
 
