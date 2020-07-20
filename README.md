@@ -12,7 +12,7 @@
 
 
 # **SnapShot of the Satellite Images**
-![Image](https://mega.nz/file/fMJFgK6Z#XV0kcuGQ2F2G-No4YhkJf_XHVpNpWa2Zy2IoDV3ev4o)
+![Image](https://mega.nz/file/fMJFgK6Z)
 
 ## **Dataset:**
 [Here](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data)
