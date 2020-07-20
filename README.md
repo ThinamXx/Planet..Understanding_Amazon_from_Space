@@ -9,3 +9,11 @@
 ##### Furthermore, these existing methods generally cannot differentiate between human causes of forest loss and natural causes. Higher resolution imagery has already been shown to be exceptionally good at this, but robust methods have not yet been developed for Planet imagery.
 
 ##### In this competition, Planet and its Brazilian partner SCCON are challenging Kagglers to label satellite image chips with atmospheric conditions and various classes of land cover/land use. Resulting algorithms will help the global community better understand where, how, and why deforestation happens all over the world - and ultimately how to respond.
+
+
+# **SnapShot of the Satellite Images**
+![Image](https://mega.nz/file/fMJFgK6Z#XV0kcuGQ2F2G-No4YhkJf_XHVpNpWa2Zy2IoDV3ev4o)
+
+## **Dataset:**
+[Here](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data)
+
