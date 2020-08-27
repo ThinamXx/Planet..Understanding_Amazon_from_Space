@@ -30,6 +30,7 @@ get_transforms(flip_vert=True, max_zoom=1.05, max_lighting=0.1, max_warp=0.)
 
 **Observing the Data Prepared**
 
+
 ![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1596721725/Planet_mdnqj2.png)
 
 **Snapshot of the Model Accuracy**
